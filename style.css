@@ -38,7 +38,7 @@ a{
     .Title{
         font-size: 45px;
         margin-top: 15%; /* Adjust the top margin for mobile */
-            margin-left: 13%; /* Adjust the left margin for mobile */
+            margin-left: 11%; /* Adjust the left margin for mobile */
     }
 }
 
@@ -51,7 +51,7 @@ a{
 }
 @media (max-width: 768px) {
     .Bodyt{
-        margin-left: 20%;
+        margin-left: 18%;
     }
 }
 

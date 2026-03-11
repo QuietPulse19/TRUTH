@@ -1,0 +1,48 @@
+
+body{
+    background-color: black;
+
+}
+a{ 
+    color: aqua;
+}
+p{
+    color: aqua;
+    margin-top: 3%;
+    margin-left: 2%;
+    display: block;
+}
+    @media (max-width: 768px) {
+        p{
+            margin-top: 15%; /* Adjust the top margin for mobile */
+            margin-left: 13%; /* Adjust the left margin for mobile */
+        }
+}
+
+.Title{
+    font-size: 86px;
+}
+@media (max-width: 768px) {
+    .Title{
+        font-size: 45px;
+    }
+}
+
+
+
+
+
+.Firstpost{
+    margin-top: 3%;
+    margin-left: 2%;
+    display: block;
+    
+    
+}
+
+@media (max-width: 768px) {
+    .Firstpost {
+        margin-top: 15%; /* Adjust the top margin for mobile */
+        margin-left: 13%; /* Adjust the left margin for mobile */
+    }
+}

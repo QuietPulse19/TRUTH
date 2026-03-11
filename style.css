@@ -36,9 +36,9 @@ a{
 }
 @media (max-width: 768px) {
     .Title{
-        font-size: 45px;
+        font-size: 50px;
         margin-top: 15%; 
-            margin-left: 9%; 
+        margin-left: 8%; 
     }
 }
 
@@ -52,7 +52,8 @@ a{
 }
 @media (max-width: 768px) {
     .Bodyt{
-        margin-left: 18%;
+        margin-top: -3%;
+        margin-left: 17%;
     }
 }
 

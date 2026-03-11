@@ -1,0 +1,75 @@
+
+body{
+    background-color: black;
+
+}
+
+/* /////////////////////////////////////////////////////////////////// */
+
+a{ 
+    color: aqua;
+}
+
+/* /////////////////////////////////////////////////////////////////// */
+
+/* p{
+    color: aqua;
+    margin-top: 3%;
+    margin-left: 2%;
+    display: block;
+}
+    @media (max-width: 768px) {
+        p{
+            margin-top: 15%; 
+            margin-left: 13%; 
+        }
+} */
+
+/* /////////////////////////////////////////////////////////////////// */
+
+.Title{
+    font-size: 86px;
+    color: aqua;
+    margin-top: 3%;
+    margin-left: 2%;
+    display: block;
+}
+@media (max-width: 768px) {
+    .Title{
+        font-size: 45px;
+        margin-top: 15%; /* Adjust the top margin for mobile */
+            margin-left: 13%; /* Adjust the left margin for mobile */
+    }
+}
+
+/* /////////////////////////////////////////////////////////////////// */
+.Bodyt{
+        color: aqua;
+        margin-left: 9%;
+
+
+}
+@media (max-width: 768px) {
+    .Bodyt{
+        margin-left: 20%;
+    }
+}
+
+/* /////////////////////////////////////////////////////////////////// */
+
+.Firstpost{
+    margin-top: 3%;
+    margin-left: 2%;
+    display: block;
+    
+    
+}
+
+@media (max-width: 768px) {
+    .Firstpost {
+        margin-top: 15%; /* Adjust the top margin for mobile */
+        margin-left: 13%; /* Adjust the left margin for mobile */
+    }
+}
+
+/* /////////////////////////////////////////////////////////////////// */

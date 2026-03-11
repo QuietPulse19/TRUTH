@@ -37,8 +37,8 @@ a{
 @media (max-width: 768px) {
     .Title{
         font-size: 45px;
-        margin-top: 15%; /* Adjust the top margin for mobile */
-            margin-left: 11%; /* Adjust the left margin for mobile */
+        margin-top: 15%; 
+            margin-left: 9%; 
     }
 }
 
@@ -68,8 +68,8 @@ a{
 
 @media (max-width: 768px) {
     .Firstpost {
-        margin-top: 15%; /* Adjust the top margin for mobile */
-        margin-left: 13%; /* Adjust the left margin for mobile */
+        margin-top: 15%; 
+        margin-left: 13%; 
     }
 }
 
